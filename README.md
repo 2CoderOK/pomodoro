@@ -2,6 +2,7 @@
 A Pomodoro timer based on Arduino Pro Mini and stylized as a Mario block
 
 This project is running on Arduino Pro Mini with a piezo buzzer, 4 digit display, button switch and RTC with a battery for a long time memory.
+Libraries used: TimerOne, TM1637, RtcDS1307 and Wire
 
 <img alt="Pomodoro Timer - Circuit Diagram" src="https://github.com/2CoderOK/pomodoro/blob/main/circuit_diagram.png" />
 
